@@ -1,0 +1,47 @@
+.top-row {
+  margin-bottom: 40px;
+}
+
+.top-left-block {
+  background-color: #000;
+  height: 50px;
+  width: 90px;
+}
+
+.top-right-blocks {
+  background-color: #000;
+  height: 25px;
+  margin-top: 25px;
+}
+
+.middle-block {
+  margin: 0px 35px;
+  margin-top: 25px;
+}
+
+.hero {
+  background-color: #000;
+  height: 450px;
+}
+
+.single-block {
+  background-color: #000;
+  height: 50px;
+  margin-top: 40px;
+}
+
+.big-5-block {
+  height: 200px;
+  background-color: #000;
+  margin-top: 40px;
+}
+
+.bottom-4-blocks {
+  height: 200px;
+  background-color: #000;
+  margin-top: 40px;
+}
+
+.bottom-middle-block {
+  margin: 40px 20px 0px 20px;
+}
